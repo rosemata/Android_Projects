@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FragmentDynamicLayout</string>
+
+    <string-array name="Hotel_Titles">
+        <item>The Peninsula Chicago</item>
+        <item>Waldorf Astoria Chicago</item>
+        <item>Nobu Hotel Chicago</item>
+        <item>LondonHouse Chicago</item>
+        <item>The Drake</item>
+    </string-array>
+    <string-array name="Hotel_Description">
+        <item>https://www.peninsula.com/en/chicago/5-star-luxury-hotel-downtown-chicago</item>
+        <item>https://www.waldorfastoriachicagohotel.com</item>
+        <item>https://chicago.nobuhotels.com</item>
+        <item>https://londonhousechicago.com</item>
+        <item>https://www.thedrakehotel.com</item>
+    </string-array>
+
+
+
+
+
+
+    <string-array name="Attraction_Titles">
+        <item>Navy Pier</item>
+        <item>Lincoln Park Zoo</item>
+        <item>Cloud Gate</item>
+        <item>Shedd Aquarium</item>
+        <item>Willis Tower</item>
+    </string-array>
+    <string-array name="Attraction_Description">
+        <item>https://navypier.org</item>
+        <item>https://www.lpzoo.org</item>
+        <item>https://www.choosechicago.com/articles/tours-and-attractions/the-bean-chicago/</item>
+        <item>https://www.sheddaquarium.org</item>
+        <item>https://www.willistower.com</item>
+    </string-array>
+
+
+
+</resources>
+
